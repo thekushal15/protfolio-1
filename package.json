@@ -1,0 +1,53 @@
+{
+  "name": "react-portfolio-starter-code-files",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/akaya-telivigala": "^4.5.6",
+    "@fontsource/sora": "^4.5.8",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "framer-motion": "^4.1.17",
+    "gsap": "^3.10.4",
+    "locomotive-scroll": "^4.1.4",
+    "normalize.css": "^8.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-locomotive-scroll": "^0.2.0",
+    "react-particles-js": "^3.5.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0",
+    "swiper": "^8.3.0",
+    "tsparticles": "^1.31.1",
+    "typewriter-effect": "^2.19.0",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
